@@ -39,7 +39,7 @@ const Navbar = () => {
       }`}
     >
       <div>
-        <h1 className="text-gray-700 font-bold text-2xl">HolidayHaven</h1>
+        <h1 className="text-gray-700 font-bold text-2xl">HolidayHeaven</h1>
       </div>
 
       {/* menu */}
